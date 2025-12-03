@@ -211,7 +211,7 @@ jupyter notebook used_car_analysis.ipynb
 
 **Max Gnesi**  
 UC Berkeley Professional Certificate in Machine Learning & Artificial Intelligence  
-[LinkedIn] | [GitHub] | [max.gnesi@gmail.com]
+[https://www.linkedin.com/in/maxgnesi/] | [https://github.com/MaxGnesi/] | [max.gnesi@gmail.com]
 
 ---
 
