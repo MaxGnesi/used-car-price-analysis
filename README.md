@@ -36,7 +36,7 @@ used-car-price-analysis/
 - **Source:** Kaggle used car listings (426,880 vehicles)
 - **Scope:** 1999-2022 vehicles (mainstream used car market)
 - **Features:** Year, mileage, manufacturer, condition, fuel type, drivetrain, etc.
-- **Target:** Price ($501 - $58,000 range)
+- **Target:** Price Range ($100 - $68,750)
 - **Final Dataset:** 350,000 vehicles after cleaning
 
 ---
