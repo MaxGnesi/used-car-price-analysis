@@ -163,7 +163,7 @@ Analysis revealed distinct pricing segments:
 ## Installation & Usage
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/used-car-price-analysis.git
+git clone https://github.com/MaxGnesi/used-car-price-analysis.git
 cd used-car-price-analysis
 
 # Create virtual environment
